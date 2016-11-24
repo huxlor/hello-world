@@ -1,2 +1,5 @@
 # hello-world
-My firts day using Github
+
+im so cool.
+
+This is my firts commit.
